@@ -1,16 +1,13 @@
-### Hi there 👋
+### Hugo 'klafyvel' Levy-Falk 👋
 
-<!--
-**Klafyvel/Klafyvel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Hi there, I am a Physics PhD student who wanders on the computer side of the force in his free time.
 
-Here are some ideas to get you started:
+I have a [personal page](https://klafyvel.me/) if you want to see the kind of stuff I do, such as blog posts or academic publications and not only the code I've written and put on GitHub.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+But because we all love summary statistics (whatever they might mean), here are some nice-looking statistics cards :sparkles:
+
+[![Klafyvel's GitHub stats](https://github-readme-stats.vercel.app/api?username=klafyvel)](https://github.com/anuraghazra/github-readme-stats)
+
+And for my friends, here is a proof that I am not doing _too much_ Julia.
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=klafyvel&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
